@@ -1,4 +1,4 @@
-# STRUDEX (A <em>stru</em>ctured _d_ata _ex_tractor)
+# STRUDEX (A STRUctured Data EXtractor)
 
 I suck at writing readme docs so this will improve in the future but for now, this is what I have.
 
