@@ -1,3 +1,4 @@
 streamlit>=1.59.0
 beautifulsoup4>=4.4.0
 pandas>=3.0.4
+bs4==0.0.1
