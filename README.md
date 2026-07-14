@@ -1,7 +1,5 @@
 # STRUDEX (A STRUctured Data EXtractor)
 
-I suck at writing readme docs so this will improve in the future but for now, this is what I have.
-
 This Python script extracts structured data from web pages and exports them to CSV.
 
 ## Instructions
