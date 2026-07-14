@@ -1,0 +1,5 @@
+streamlit>=1.59.2
+requests>=2.34.2
+beautifulsoup4>=4.15.0
+lxml>=6.1.1
+pandas>=3.0.4
